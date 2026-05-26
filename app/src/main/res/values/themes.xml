@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme – dark, no action bar -->
+    <style name="Theme.SKTunnel" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- We'll use a pure dark background as the window background -->
+        <item name="android:statusBarColor">@color/npv_dark</item>
+        <item name="android:navigationBarColor">@color/npv_dark</item>
+        <item name="android:windowBackground">@color/npv_dark</item>
+    </style>
+</resources>
