@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SK Tunnel</string>
+    <string name="vpn_notification_channel">SK Tunnel VPN</string>
+    <string name="vpn_running">VPN is running</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="protocol_label">Protocol</string>
+    <string name="server_hint">e.g. server.com:443@uuid</string>
+    <string name="tap_to_connect">Tap to Connect</string>
+    <string name="connected">VPN Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="upload_speed">↑ 0 B/s</string>
+    <string name="download_speed">↓ 0 B/s</string>
+</resources>
